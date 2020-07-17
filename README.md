@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Shouting out a greeting from across the secret room :) Currently, I'm working on an analytics engine to shape next generation of cloud-based analytics and monitoring tools. Find out more about me on [hallaji.com](https://hallaji.com)
+
 <!--
 **hallaji/hallaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
