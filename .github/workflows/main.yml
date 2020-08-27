@@ -1,10 +1,10 @@
-name: Preview
+name: Main
 
 on:
   push:
-    branches: [ preview ]
+    branches: [ master ]
   pull_request:
-    branches: [ preview ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -13,11 +13,11 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: hallaji/yuva
-          ref: develop
+          ref: master
           token: ${{ secrets.REPO_PAT }}
       - uses: actions/checkout@v2
         with:
-          ref: preview
+          ref: master
           path: posts
       - uses: actions/setup-node@v1
         with:
@@ -28,4 +28,4 @@ jobs:
           export JSON="{\"projectId\":\"${{ secrets.VERCEL_PROJECT_ID }}\",\"orgId\":\"${{ secrets.VERCEL_ORG_ID }}\"}"
           echo $JSON > .vercel/project.json
           npm i -g vercel
-          vercel --confirm --token=${{ secrets.VERCEL_TOKEN }}
+          vercel --confirm --prod --token=${{ secrets.VERCEL_TOKEN }}
