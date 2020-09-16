@@ -14,7 +14,7 @@ A valid entry can contain a dash (-), numbers (0-9), and lower case letters (a-z
 -->
 
 <a href="https://hallaji.com">
-  <img src="./assets/fav/fav.svg" widht="40" height="40">
+  <img src="./assets/fav/dawn.svg" widht="40" height="40">
 </a>
 
 #### Hi there 👋
