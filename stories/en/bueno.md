@@ -5,6 +5,8 @@ tags:
   - work
   - melbourne
   - current
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/bueno.png' height='64'  /><br />

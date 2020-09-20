@@ -4,6 +4,8 @@ date: '2007-06-01'
 tags:
   - work
   - tabriz
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/tbzmed.png' height='64'  /><br />

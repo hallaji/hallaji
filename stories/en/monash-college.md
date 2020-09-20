@@ -5,6 +5,8 @@ tags:
   - education
   - college
   - english
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/monash.png' height='64' /><br />

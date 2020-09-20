@@ -5,6 +5,8 @@ tags:
   - work
   - casual
   - melbourne
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/3floorsup.png' height='64' /><br />

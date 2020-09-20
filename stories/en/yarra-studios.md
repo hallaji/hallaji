@@ -4,6 +4,8 @@ date: '2017-08-23'
 tags:
   - work
   - melbourne
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/yarra-studios.png' height='64'  /><br />

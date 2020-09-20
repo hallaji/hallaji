@@ -1,5 +1,7 @@
 ---
 title: Last
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <b>Time Flies!</b>

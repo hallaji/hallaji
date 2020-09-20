@@ -6,6 +6,8 @@ tags:
   - co-founder
   - self-employed
   - tabriz
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/stories/narmand.png' height='64'  /><br />

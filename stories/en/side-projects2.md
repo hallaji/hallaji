@@ -4,6 +4,8 @@ date: '2018-07'
 tags:
   - melbourne
   - ongoing
+seo:
+  canonical: https://hallaji.com/en/about
 ---
 <p align='center'>
   <img src='/assets/fav/white.svg' height='64' /><br />
