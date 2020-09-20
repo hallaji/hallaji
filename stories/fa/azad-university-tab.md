@@ -1,0 +1,16 @@
+---
+title: دانشگاه آزاد تبریز
+date: '2014-03'
+tags:
+  - آموزش
+  - کارشناسی
+  - درجه
+seo:
+  canonical: https://hallaji.com/fa/about
+---
+<p align='center'>
+  <img src='/assets/stories/azad.png' height='64' /><br />
+  <b>دانشگاه آزاد تبریز</b>
+</p>
+
+* لیسانس‌ام در رشته مهندسی نرم‌افزار رو در واحد تبریز با درجه خوبی به پایان رسوندم.

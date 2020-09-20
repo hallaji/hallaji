@@ -1,0 +1,31 @@
+name: Main
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: hallaji/yuva
+          ref: master
+          token: ${{ secrets.REPO_PAT }}
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+          path: posts
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: Deploy
+        run: |
+          cp -a ./posts/assets/. ./public/assets/
+          mkdir .vercel
+          export JSON="{\"projectId\":\"${{ secrets.VERCEL_PROJECT_ID }}\",\"orgId\":\"${{ secrets.VERCEL_ORG_ID }}\"}"
+          echo $JSON > .vercel/project.json
+          npm i -g vercel
+          vercel --confirm --prod --token=${{ secrets.VERCEL_TOKEN }}
