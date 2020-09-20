@@ -1,5 +1,7 @@
 ---
 title: آخر
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <b>وقت طلاست!</b>

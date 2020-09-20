@@ -1,6 +1,8 @@
 ---
 title: اول
 date: '2003-04-01'
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <b>برداشت اول!</b>

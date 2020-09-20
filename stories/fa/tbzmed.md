@@ -4,6 +4,8 @@ date: '2007-06-01'
 tags:
   - کار
   - تبریز
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/tbzmed.png' height='64'  /><br />

@@ -6,6 +6,8 @@ tags:
   - هم‌بنیان‌گذار
   - خویش‌فرما
   - تبریز
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/narmand.png' height='64'  /><br />

@@ -5,6 +5,8 @@ tags:
   - کار
   - غیررسمی
   - ملبورن
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/3floorsup.png' height='64' /><br />

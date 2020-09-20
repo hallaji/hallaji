@@ -6,6 +6,8 @@ tags:
   - دانشکده
   - دوره
   - انگلیسی
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/monash.png' height='64' /><br />

@@ -5,6 +5,8 @@ tags:
   - آموزش
   - کاردانی
   - درجه
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/azad.png' height='64' /><br />

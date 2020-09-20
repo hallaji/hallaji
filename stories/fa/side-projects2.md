@@ -4,6 +4,8 @@ date: '2018-07'
 tags:
   - ملبورن
   - جاری
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/fav/white.svg' height='64' /><br />

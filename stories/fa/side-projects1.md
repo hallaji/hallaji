@@ -5,6 +5,8 @@ tags:
   - کار
   - فریلنسیگ
   - تبریز
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/fav/white.svg' height='64' /><br />

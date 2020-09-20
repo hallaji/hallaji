@@ -4,6 +4,8 @@ date: '2013-06-22'
 tags:
   - کار
   - تبریز
+seo:
+  canonical: https://hallaji.com/fa/about
 ---
 <p align='center'>
   <img src='/assets/stories/behkar.png' height='64'  /><br />
