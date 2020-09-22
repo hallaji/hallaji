@@ -20,7 +20,7 @@ jobs:
           path: posts
       - uses: actions/setup-node@v1
         with:
-          node-version: '12'
+          node-version: '14.11'
       - name: Deploy
         run: |
           cp -a ./posts/assets/. ./public/assets/
