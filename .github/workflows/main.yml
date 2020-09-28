@@ -43,4 +43,4 @@ jobs:
           export PROJECT="{\"projectId\":\"${{ secrets.VERCEL_PROJECT_ID }}\",\"orgId\":\"${{ secrets.VERCEL_ORG_ID }}\"}"
           echo $PROJECT > .vercel/project.json
           npm i -g vercel
-          vercel --confirm --token=${{ secrets.VERCEL_TOKEN }}
+          vercel --confirm --prod --token=${{ secrets.VERCEL_TOKEN }}
