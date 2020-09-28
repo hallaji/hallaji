@@ -6,26 +6,41 @@ on:
       - master
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout source repo
+        uses: actions/checkout@v2
         with:
           repository: hallaji/yuva
           ref: master
           token: ${{ secrets.REPO_PAT }}
-      - uses: actions/checkout@v2
+      - name: Checkout content repo to posts directory
+        uses: actions/checkout@v2
         with:
           ref: master
           path: posts
-      - uses: actions/setup-node@v1
+      - name: Checkout content repo to public directory
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: public
+      - name: Setup node
+        uses: actions/setup-node@v1
         with:
           node-version: '14.11'
-      - name: Deploy
+      - name: Remove hidden files and directories from content directories
         run: |
-          cp -a ./posts/assets/. ./public/assets/
+          find ./posts -iname '.*' -exec rm -rf {} +
+          find ./public -iname '.*' -exec rm -rf {} +
+      - name: Remove unnecessary files from content directories
+        run: |
+          find ./posts -type f ! -iname '*.md' -exec rm -rf {} +
+          find ./public -type f -iname '*.md' -exec rm -rf {} +
+      - name: Vercel
+        run: |
           mkdir .vercel
-          export JSON="{\"projectId\":\"${{ secrets.VERCEL_PROJECT_ID }}\",\"orgId\":\"${{ secrets.VERCEL_ORG_ID }}\"}"
-          echo $JSON > .vercel/project.json
+          export PROJECT="{\"projectId\":\"${{ secrets.VERCEL_PROJECT_ID }}\",\"orgId\":\"${{ secrets.VERCEL_ORG_ID }}\"}"
+          echo $PROJECT > .vercel/project.json
           npm i -g vercel
           vercel --confirm --prod --token=${{ secrets.VERCEL_TOKEN }}
