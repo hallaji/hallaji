@@ -9,8 +9,13 @@
 The content repository of `https://hallaji.com`
 (C) CC BY-SA 4.0
 
-The directory structure can be as `directory/en-slug.md` or `directory/en/slug.md`.
-A valid entry can contain a dash (-), numbers (0-9), and lower case letters (a-z).
+The content structure can be in 4 different patterns:
+ * `directory/slug.md`
+ * `directory/en-slug.md`
+ * `directory/slug/index.md`
+ * `directory/slug/en.md
+A slug can contain a dash (-), numbers (0-9), and lower case letters (a-z).
+The length of the slug must be at least 3 characters.
 -->
 
 <a href="https://hallaji.com">
@@ -18,7 +23,13 @@ A valid entry can contain a dash (-), numbers (0-9), and lower case letters (a-z
 </a>
 
 #### Hi there 👋
-I am a software engineer based in Melbourne who develops web and mobile stacks. My [website](https://hallaji.com) content is maintained in this [repository](https://github.com/hallaji/hallaji). I keep my [stories](https://hallaji.com/en/about), learn something new by writing [articles](https://hallaji.com/en/blog), think aloud in my [diary](https://hallaji.com/en/diary), focus on  [what](https://hallaji.com/en/works) excites me and do so with some style and passion. If you find anything you can improve, please feel free to submit an [issue](https://github.com/hallaji/hallaji/issues) or a [pull request](https://github.com/hallaji/hallaji/pulls).
+
+I am a software engineer based in Melbourne who develops web and mobile stacks. My [website](https://hallaji.com)
+content is maintained in this [repository](https://github.com/hallaji/hallaji). I keep my
+[stories](https://hallaji.com/en/about), learn something new by writing [articles](https://hallaji.com/en/blog), think
+aloud in my [diary](https://hallaji.com/en/diary), focus on  [what](https://hallaji.com/en/works) excites me and do so
+with some style and passion. If you find anything you can improve, please feel free to submit an
+[issue](https://github.com/hallaji/hallaji/issues) or a [pull request](https://github.com/hallaji/hallaji/pulls).
 
 <img align="left" width='20' src="./assets/license/cc.svg">
 <img align="left" width='20' src="./assets/license/by.svg">
