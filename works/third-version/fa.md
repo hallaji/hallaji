@@ -19,6 +19,8 @@ seo:
         width: 1600
         height: 921
         alt: Third Version
+link:
+  external: https://hallaji.dev/v3/
 ---
 
 نسخه سوم وب سایت وحید حلاجی که با وردپرس و جاوااسکریپت ساخته شده است.

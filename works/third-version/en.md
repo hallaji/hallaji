@@ -19,6 +19,8 @@ seo:
         width: 1600
         height: 921
         alt: Third Version
+link:
+  external: https://hallaji.dev/v3/
 ---
 
 The third version of Vahid Hallaji's website was made with wordpress and javascript.
