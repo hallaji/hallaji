@@ -1,6 +1,7 @@
 ---
 title: وب‌سایت شخصی - نسخه سوم
 date: '2014-02-23'
+pinned: true
 category:
   title: وب‌سایت
   slug: website
