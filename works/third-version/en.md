@@ -1,6 +1,7 @@
 ---
 title: Personal Website - Third Version
 date: '2014-02-23'
+pinned: true
 category:
   title: Website
   slug: website

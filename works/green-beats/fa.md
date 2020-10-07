@@ -1,6 +1,7 @@
 ---
 title: Green Beats
 date: '2018-11-24'
+pinned: true
 category:
   title: موبایل
   slug: mobile
