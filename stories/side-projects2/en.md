@@ -5,7 +5,7 @@ tags:
   - melbourne
   - ongoing
 seo:
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 <p align='center'>
   <img src='/assets/fav/white.svg' height='64' />

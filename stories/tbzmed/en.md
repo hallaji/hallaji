@@ -5,7 +5,7 @@ tags:
   - work
   - tabriz
 seo:
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 <p align='center'>
   <img src='/stories/tbzmed/tbzmed.png' height='64' />

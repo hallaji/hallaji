@@ -6,7 +6,7 @@ tags:
   - casual
   - melbourne
 seo:
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 <p align='center'>
   <img src='/stories/3floorsup/3floorsup.png' height='64' />

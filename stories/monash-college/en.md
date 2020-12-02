@@ -7,7 +7,7 @@ tags:
   - course
   - english
 seo:
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 <p align='center'>
   <img src='/stories/monash-college/monash.png' height='64' />
