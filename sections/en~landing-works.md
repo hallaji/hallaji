@@ -4,7 +4,7 @@ date: '2020-08-28'
 seo:
   title: Works
   description: Focusing on what excites me and do so with some style and passion. There’s something very satisfying about creating things.
-  canonical: https://hallaji.com/en/works
+  canonical: https://hallaji.com/works
   openGraph:
     title: Works — Vahid Hallaji
 ---

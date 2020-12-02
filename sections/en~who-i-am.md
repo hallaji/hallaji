@@ -3,7 +3,7 @@ title: Who I Am
 date: '2020-09-01'
 seo:
   title: Who I Am
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 My name is **Vahid Hallaji**. I am a software engineer based in Melbourne, Australia who develops web and mobile stacks.
 I have studied Software Engineering and Master of Information Technology at Azad University and Monash University

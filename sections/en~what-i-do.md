@@ -3,7 +3,7 @@ title: What I Do
 date: '2020-09-01'
 seo:
   title: What I Do
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
 ---
 I make software. If you have a project or an idea that requires co-thinking or some creative injections, then that is
 where you could count on me. I strive to create elegant looking apps and websites while making them simple for the

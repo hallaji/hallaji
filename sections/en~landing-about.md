@@ -4,7 +4,7 @@ date: '2020-08-28'
 seo:
   title: About
   description: You will find me exploring on my bike or turning pages in a reading nook. This is a full page just about me.
-  canonical: https://hallaji.com/en/about
+  canonical: https://hallaji.com/about
   openGraph:
     title: About — Vahid Hallaji
 ---

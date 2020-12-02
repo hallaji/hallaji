@@ -4,7 +4,7 @@ date: '2020-08-28'
 seo:
   title: Software Engineer
   description: My name is Vahid Hallaji. I am a software engineer based in Melbourne who develops web and mobile stacks.
-  canonical: https://hallaji.com/en
+  canonical: https://hallaji.com
   openGraph:
     title: Vahid Hallaji — Software Engineer
 ---
