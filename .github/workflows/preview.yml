@@ -27,13 +27,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '14.11'
-      - name: Remove hidden files and directories from content directories
+      - name: Remove unnecessary files and directories
         run: |
           find ./posts -iname '.*' -exec rm -rf {} +
           find ./public -iname '.*' -exec rm -rf {} +
-      - name: Remove unnecessary files from content directories
-        run: |
-          find ./posts -type f ! -iname '*.md' -exec rm -rf {} +
           find ./public -type f -iname '*.md' -exec rm -rf {} +
       - name: Vercel
         run: |
