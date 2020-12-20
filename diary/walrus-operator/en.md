@@ -21,7 +21,7 @@ seo:
 
 [python-3.8]: https://docs.python.org/3/whatsnew/3.8.html
 [assignment-expressions]: https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions
-[walrus]: /diary/walrus-operator/walrus-operator.jpg
+[walrus]: /diary/walrus-operator/walrus-operator.svg
 
 Python [3.8][python-3.8] introduces [assignment expressions][assignment-expressions] affectionately known as “the
 walrus operator”. That's because the operator looks like a walrus!
