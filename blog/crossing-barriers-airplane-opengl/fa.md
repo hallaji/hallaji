@@ -19,7 +19,7 @@ seo:
 [repo]: https://github.com/hallaji/crossing-barriers
 [wiki]: https://en.wikipedia.org/wiki/Silicon_Graphics
 [download]: https://github.com/hallaji/crossing-barriers/archive/master.zip
-[screenshot]: /blog/crossing-barriers-airplane-opengl/screenshot.jpg
+[screenshot]: /blog/crossing-barriers-airplane-opengl/screenshot.svg
 
 OpenGL یک API هست که از GPU یا واحد پردازش گرافیک برای رندر کردن گرافیک برداری دو بعدی و سه بعدی
 استفاده می کنه و توسط شرکت [سیلیکون گرافیکس][wiki] توسعه داده شده. مدت ها پیش با زبان ++C و

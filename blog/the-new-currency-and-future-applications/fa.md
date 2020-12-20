@@ -24,7 +24,7 @@ seo:
 ---
 
 <p align="center">
-  <img src="/blog/the-new-currency-and-future-applications/iranian-money.jpg" alt="اسکناس پنجاه هزار ریالی" />
+  <img src="/blog/the-new-currency-and-future-applications/iranian-banknote.svg" alt="اسکناس پنج هزار ریالی" />
 </p>
 
 ## طرح اصلاح پول ملی
