@@ -19,7 +19,7 @@ The length of the slug must be at least 3 characters.
 -->
 
 <a href="https://hallaji.com">
-  <img src="./assets/fav/dawn.svg" widht="48" height="48">
+  <img src="./assets/fav/fav.svg" widht="48" height="48">
 </a>
 
 #### Hi there 👋
