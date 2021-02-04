@@ -1,5 +1,5 @@
 ---
-title: Tabriz University of Mediacal Sciences
+title: Tabriz University of Medical Sciences
 date: '2007-06-01'
 tags:
   - work
@@ -11,7 +11,7 @@ seo:
   <img src='/stories/tbzmed/tbzmed.png' height='64' />
 </p>
 <p align='center'>
-  <b>Tabriz University of Mediacal Sciences</b>
+  <b>Tabriz University of Medical Sciences</b>
 </p>
 
 * Designed and developed an app for research activities, Ravand, for the Office of the Vice-Chancellor for Research at
