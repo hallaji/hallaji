@@ -4,7 +4,6 @@ date: '2019-03-15'
 tags:
   - work
   - melbourne
-  - current
 seo:
   canonical: https://hallaji.com/about
 ---
@@ -15,7 +14,7 @@ seo:
   <b>Bueno</b><br />
 </p>
 
-* Currently, working on an analytics engine and monitoring tools at Bueno to shape the next generation of cloud-based
+* Worked on an analytics engine and monitoring tools at Bueno to shape the next generation of cloud-based
 analytics using `Kotlin`, `Python`, `Typescript`, `Javascript` and Google cloud platform `GCP`.
 * Contributed in developing a front-end asset and component library with `Typescript`, `React.js` and `Styled Components`
 to enable fast iteration and immediate integration into any product.
