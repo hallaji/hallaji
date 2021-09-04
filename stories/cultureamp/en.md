@@ -15,6 +15,4 @@ seo:
   <b>Culture Amp</b><br />
 </p>
 
-* Currently, help the team to build and gradually migrate to a brand new backend
-infrastructure of the employee engagement and performance management solutions
-to amplify the experience and the impact of 100 million people at work.
+* Currently, help the core services team to extract features from a monolith product of the employee engagement and performance management solutions and build manageable microservices to amplify the experience and the impact of 100 million people at work.

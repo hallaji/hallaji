@@ -17,7 +17,6 @@ seo:
 
 * Completed a master's in Information Technology at Monash University Caulfield campus.
 * The winner of the post-graduate industry experience in the final semester.
-* Developed a `React Native` app utilising `Expo SDK`, `SQLite` and `Google Maps` that promotes the health of children
-through physical activities.
+* Developed a `React Native` app utilising `Expo SDK`, `SQLite` and `Google Maps` that promotes the health of children through physical activities.
 * Created a small library app for `Android` with `Java`.
 * Made a simple banking application in `Java`, `JEE`, `JSF` and `EJB`.

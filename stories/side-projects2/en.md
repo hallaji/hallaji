@@ -14,5 +14,4 @@ seo:
   <b>Side Projects</b>
 </p>
 
-* Developing a cross-platform app as a side project for language learners including web, mobile and CLI notably applying
-`Swift`, `Cloud Firestore`, `Nodejs`, `SQLite`, `Typescript`, `React.js` and synchronised `Realm Database`.
+* Developing a cross-platform app as a side project for language learners including web, mobile and CLI notably applying `Swift`, `Cloud Firestore`, `Nodejs`, `SQLite`, `Typescript`, `React.js` and synchronised `Realm Database`.

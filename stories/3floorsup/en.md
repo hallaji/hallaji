@@ -15,5 +15,4 @@ seo:
   <b>3Floorsup</b>
 </p>
 
-* Helped the team to develop and normalise a `MySQL` database of asset & work order management system and improved the
-data integrity.
+* Helped the team to develop and normalise a `MySQL` database of asset & work order management system and improved the data integrity.

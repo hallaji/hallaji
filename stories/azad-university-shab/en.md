@@ -16,5 +16,4 @@ seo:
 </p>
 
 * Enrolled in Shabestar campus to study Bachelor of Software Engineering.
-* Due to the excessive pressure at work, I found it difficult to finish my studies and used an alternative exit as an
-associate’s degree.
+* Due to the excessive pressure at work, I found it difficult to finish my studies and used an alternative exit as an associate’s degree.

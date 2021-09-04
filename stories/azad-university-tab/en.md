@@ -15,5 +15,4 @@ seo:
   <b>Azad University of Tabriz</b>
 </p>
 
-* Completed a bachelor’s degree in Software Engineering at Tabriz campus with high
-distinction.
+* Completed a bachelor’s degree in Software Engineering at Tabriz campus with high distinction.
