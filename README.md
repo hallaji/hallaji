@@ -30,13 +30,3 @@ content is maintained in this [repository](https://github.com/hallaji/hallaji). 
 aloud in my [diary](https://hallaji.com/diary), focus on  [what](https://hallaji.com/works) excites me and do so
 with some style and passion. If you find anything you can improve, please feel free to submit an
 [issue](https://github.com/hallaji/hallaji/issues) or a [pull request](https://github.com/hallaji/hallaji/pulls).
-
-<img align="left" width='20' src="./assets/license/cc.svg">
-<img align="left" width='20' src="./assets/license/by.svg">
-<img align="left" width='20' src="./assets/license/sa.svg">
-
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-plaintext]: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
-[cc-by-sa-shield]: https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-lightgrey
