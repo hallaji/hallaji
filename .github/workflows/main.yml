@@ -12,7 +12,7 @@ jobs:
       - name: Checkout source repo
         uses: actions/checkout@v2
         with:
-          repository: hallaji/yuva
+          repository: hallaji/website
           ref: master
           token: ${{ secrets.REPO_PAT }}
       - name: Checkout content repo to posts directory
