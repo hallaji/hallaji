@@ -20,8 +20,8 @@ seo:
   ability to build new features and to operate, maintain, and grow the platform
   at scale.
 - Contributed to the large portion of feature flag and toggle management project
-  with LaunchDarkly provider including architectural decisions, operations, flags
-  provisioning, documentation and general maintenance.
+  with LaunchDarkly provider including architectural decisions, flags provisioning
+  and operations using `Golang`, `AWS CDK` and `Terraform`.
 - Developed wrappers for LaunchDarkly’s SDKs introducing client-side `JS` and `React`
   packages, and also server-side `Node.js` and `Golang` packages in order to abstract
   the initialisation process and create a uniform way of exposing user information
