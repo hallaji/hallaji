@@ -9,7 +9,7 @@ seo:
     title: Vahid Hallaji — Software Engineer
 ---
 
-My name is **Vahid Hallaji**. I'm a software engineer hailing from the lovely city
+My name is **Vahid Hallaji**. I'm a software engineer from the lovely city
 of Melbourne. I spend my days developing web and mobile stacks, but my passion for
 coding started way back in the early 2000s when I stumbled upon the source code of
 a blog! I couldn't resist taking a peek and have been hooked on software ever since.
