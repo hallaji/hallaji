@@ -1,6 +1,6 @@
 ---
 title: Culture Amp
-date: "2023-01-11"
+date: "2021-06-15"
 tags:
   - work
   - melbourne
