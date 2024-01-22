@@ -3,7 +3,7 @@ name: Preview
 on:
   push:
     branches-ignore:
-      - master
+      - main
 
 jobs:
   deploy:

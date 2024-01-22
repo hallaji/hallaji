@@ -3,7 +3,7 @@ name: Main
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -13,17 +13,17 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: hallaji/website
-          ref: master
+          ref: main
           token: ${{ secrets.REPO_PAT }}
       - name: Checkout content repo to posts directory
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
           path: posts
       - name: Checkout content repo to public directory
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: main
           path: public
       - name: Setup node
         uses: actions/setup-node@v1
