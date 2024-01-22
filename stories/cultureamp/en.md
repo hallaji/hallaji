@@ -16,33 +16,33 @@ seo:
   <b>Culture Amp</b><br />
 </p>
 
-- Helping core services team to provide shared services that improve Culture Amp's
-  ability to build new features and to operate, maintain, and grow the platform
-  at scale.
+- Developed a mobile-first and responsive Authentication UI using the `Next.js`
+  framework, `React` and `TypeScript`. Involved in the configuration and maintenance
+  of the `FusionAuth` stack, ensuring robust support for the authentication UI.
+  Worked closely with quality coaches and designers to ensure that the final product
+  adhered to high quality standards.
+- Contributed to the development of web hooks integrating an event-driven
+  architecture for synchronising users and accounts from the internal platform to
+  FusionAuth using `Golang`, `Apache Kafka` and `AWS` stack.
+- Participated in the design and development of the Roles and Permissions UI using
+  `React` and `Next.js`, along with a backend service utilising `Golang`. The initiative
+  played a crucial role in standardising the management of roles and permissions
+  across Culture Amp.
 - Contributed to the large portion of feature flag and toggle management project
-  with LaunchDarkly provider including architectural decisions, flags provisioning
-  and operations using `Golang`, `AWS CDK` and `Terraform`.
-- Developed wrappers for LaunchDarkly’s SDKs introducing client-side `JS` and `React`
-  packages, and also server-side `Node.js` and `Golang` packages in order to abstract
-  the initialisation process and create a uniform way of exposing user information
-  back to LaunchDarkly.
-- Contributed to the development of web hooks incorporating `event-driven` architecture
-  of users and accounts synchronisation from internal platform to FusionAuth using
-  `Golang`, `Apache Kafka` and `AWS` stack.
-- Uplifted the existing sign-in user interface and fixed most of the stumbling
-  blocks preventing first-time users from signing in to Culture Amp. Created a brand
-  new mobile-first and responsive layout of Authentication UI using `Next.js`
-  framework and `Typescript`. Conducted multiple sessions with our quality coaches
-  and designers to ensure that the product delivered to our customers meet the
-  quality standards.
-- Contributed to decision-making framework to discover the next `React` app
-  framework, making a new push to standardise the architecture and framework of
-  front-end apps at Culture Amp. Investigated the feasibility and adoption of
-  `Next.js` and `Tailwind CSS`.
-- Made discoveries around Auth0 and FusionAuth authentication providers. Developed
-  demo React applications for each provider, presented findings with frontend
-  practice group, and tested both providers from a front-end perspective.
-- Mentored interns and new employees to give them context about Culture Amp in
-  general and help them get successful onboarding process. The program was a
-  good opportunity to develop my leadership skills and most importantly to
-  amplify others.
+  with `LaunchDarkly` provider including architectural decisions, flags provisioning
+  and operations using `Golang`, `AWS CDK` and `Terraform`. Additionally, played
+  a role in developing a UI tailored for efficient management of toggles.
+- Developed wrappers for LaunchDarkly’s SDKs introducing client-side `JS` and
+  `React` packages, and also server-side `Node.js` and `Golang` packages in order
+  to abstract the initialisation process and create a uniform way of exposing user
+  information back to LaunchDarkly.
+- Explored and evaluated `Auth0` and `FusionAuth` as authentication providers,
+  developing demo React applications for each. Presented insights and findings
+  to the frontend practice group, and performed thorough front-end testing for
+  both providers.
+- Participated in the decision-making process to identify Culture Amp's next
+  framework, aiming to standardise the architecture of front-end apps. Investigated
+  the practicality and integration of `Next.js` and `Tailwind CSS`.
+- Actively mentored interns and new employees, facilitating successful onboarding
+  and integration to Culture Amp. This role allowed me to hone my leadership
+  skills and amplify the capabilities of others.
